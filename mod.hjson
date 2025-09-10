@@ -1,0 +1,9 @@
+name: "idiot_mod"
+displayName: "YOU ARE AN IDIOT!"
+description: "not found"
+author: "[blue]amogus[gold]228"
+version: "1.2"
+hidden: true
+main: "main.js"
+minGameVersion: "136"
+dependencies: []
